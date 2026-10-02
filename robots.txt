@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://byebyeskiy.github.io/courtly/sitemap.xml
+Sitemap: https://courtly-zeta-two.vercel.app/sitemap.xml
